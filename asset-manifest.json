@@ -1,13 +1,13 @@
 {
-  "main.js": "/vkapps_notifier/static/js/main.b6a16f9b.chunk.js",
-  "main.js.map": "/vkapps_notifier/static/js/main.b6a16f9b.chunk.js.map",
+  "main.js": "/vkapps_notifier/static/js/main.2c4e34e7.chunk.js",
+  "main.js.map": "/vkapps_notifier/static/js/main.2c4e34e7.chunk.js.map",
   "runtime~main.js": "/vkapps_notifier/static/js/runtime~main.3118d42a.js",
   "runtime~main.js.map": "/vkapps_notifier/static/js/runtime~main.3118d42a.js.map",
   "static/css/2.5b66982b.chunk.css": "/vkapps_notifier/static/css/2.5b66982b.chunk.css",
   "static/js/2.50229104.chunk.js": "/vkapps_notifier/static/js/2.50229104.chunk.js",
   "static/js/2.50229104.chunk.js.map": "/vkapps_notifier/static/js/2.50229104.chunk.js.map",
   "index.html": "/vkapps_notifier/index.html",
-  "precache-manifest.491adf16f8efb83c21b0703f69ea8be9.js": "/vkapps_notifier/precache-manifest.491adf16f8efb83c21b0703f69ea8be9.js",
+  "precache-manifest.d1f02e164894be820fc8eb706541ed92.js": "/vkapps_notifier/precache-manifest.d1f02e164894be820fc8eb706541ed92.js",
   "service-worker.js": "/vkapps_notifier/service-worker.js",
   "static/css/2.5b66982b.chunk.css.map": "/vkapps_notifier/static/css/2.5b66982b.chunk.css.map"
 }
