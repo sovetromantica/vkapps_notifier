@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/vkapps_notifier/static/js/runtime~main.3118d42a.js"
   },
   {
-    "revision": "a8ac5220096981f29327",
-    "url": "/vkapps_notifier/static/js/main.a8ac5220.chunk.js"
+    "revision": "f1b45da5c6d6765ea4c1",
+    "url": "/vkapps_notifier/static/js/main.f1b45da5.chunk.js"
   },
   {
     "revision": "d4a813ab0a6d12b3fba9",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vkapps_notifier/static/css/2.5b66982b.chunk.css"
   },
   {
-    "revision": "80267290efd49a18971f89e840326253",
+    "revision": "1cf4ce33e9e3a489d13dbe822d9f033c",
     "url": "/vkapps_notifier/index.html"
   }
 ];
