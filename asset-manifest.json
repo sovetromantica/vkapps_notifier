@@ -1,15 +1,15 @@
 {
   "main.css": "/vkapps_notifier/static/css/main.96af701a.chunk.css",
-  "main.js": "/vkapps_notifier/static/js/main.3c2405f1.chunk.js",
-  "main.js.map": "/vkapps_notifier/static/js/main.3c2405f1.chunk.js.map",
+  "main.js": "/vkapps_notifier/static/js/main.531f11f4.chunk.js",
+  "main.js.map": "/vkapps_notifier/static/js/main.531f11f4.chunk.js.map",
   "runtime~main.js": "/vkapps_notifier/static/js/runtime~main.3118d42a.js",
   "runtime~main.js.map": "/vkapps_notifier/static/js/runtime~main.3118d42a.js.map",
-  "static/css/2.5b66982b.chunk.css": "/vkapps_notifier/static/css/2.5b66982b.chunk.css",
-  "static/js/2.5557df03.chunk.js": "/vkapps_notifier/static/js/2.5557df03.chunk.js",
-  "static/js/2.5557df03.chunk.js.map": "/vkapps_notifier/static/js/2.5557df03.chunk.js.map",
+  "static/css/2.9283af8e.chunk.css": "/vkapps_notifier/static/css/2.9283af8e.chunk.css",
+  "static/js/2.1d05100d.chunk.js": "/vkapps_notifier/static/js/2.1d05100d.chunk.js",
+  "static/js/2.1d05100d.chunk.js.map": "/vkapps_notifier/static/js/2.1d05100d.chunk.js.map",
   "index.html": "/vkapps_notifier/index.html",
-  "precache-manifest.739b7188f96efa12f6aaf3292ac55a46.js": "/vkapps_notifier/precache-manifest.739b7188f96efa12f6aaf3292ac55a46.js",
+  "precache-manifest.8ba13a4fef995a49246bb90e7371ed43.js": "/vkapps_notifier/precache-manifest.8ba13a4fef995a49246bb90e7371ed43.js",
   "service-worker.js": "/vkapps_notifier/service-worker.js",
-  "static/css/2.5b66982b.chunk.css.map": "/vkapps_notifier/static/css/2.5b66982b.chunk.css.map",
+  "static/css/2.9283af8e.chunk.css.map": "/vkapps_notifier/static/css/2.9283af8e.chunk.css.map",
   "static/css/main.96af701a.chunk.css.map": "/vkapps_notifier/static/css/main.96af701a.chunk.css.map"
 }
