@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/vkapps_notifier/static/css/2.9283af8e.chunk.css"
   },
   {
-    "revision": "d551b521b1c79ab404b63e4415b3cb75",
+    "revision": "a16b4f0f5e072721aba14671ba74324b",
     "url": "/vkapps_notifier/index.html"
   }
 ];
