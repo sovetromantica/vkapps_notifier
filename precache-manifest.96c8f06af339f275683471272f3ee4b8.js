@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/vkapps_notifier/static/js/runtime~main.7fb2ff22.js"
   },
   {
-    "revision": "6ebe4aaa9f773a5c8b8b",
-    "url": "/vkapps_notifier/static/js/main.f8317d94.chunk.js"
+    "revision": "44489ac1741f7e051121",
+    "url": "/vkapps_notifier/static/js/main.a5ec7eb8.chunk.js"
   },
   {
     "revision": "6ec6627eaaa99b4890c9",
     "url": "/vkapps_notifier/static/js/2.57e8e5ad.chunk.js"
   },
   {
-    "revision": "6ebe4aaa9f773a5c8b8b",
+    "revision": "44489ac1741f7e051121",
     "url": "/vkapps_notifier/static/css/main.9011eca2.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/vkapps_notifier/static/css/2.080ac3f9.chunk.css"
   },
   {
-    "revision": "13b24b581b867d86dafdad796689a50d",
+    "revision": "3446965493c0bb128b84230e85146b49",
     "url": "/vkapps_notifier/index.html"
   }
 ];
