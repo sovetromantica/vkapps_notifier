@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/vkapps_notifier/static/js/runtime~main.7fb2ff22.js"
   },
   {
-    "revision": "aabde698c09bea870c4f",
-    "url": "/vkapps_notifier/static/js/main.4f2af8dc.chunk.js"
+    "revision": "9e85268d06f171b300f9",
+    "url": "/vkapps_notifier/static/js/main.5b7ea2e6.chunk.js"
   },
   {
-    "revision": "db0996c536acc07ed6e5",
-    "url": "/vkapps_notifier/static/js/2.93a57018.chunk.js"
+    "revision": "6ec6627eaaa99b4890c9",
+    "url": "/vkapps_notifier/static/js/2.57e8e5ad.chunk.js"
   },
   {
-    "revision": "aabde698c09bea870c4f",
+    "revision": "9e85268d06f171b300f9",
     "url": "/vkapps_notifier/static/css/main.9011eca2.chunk.css"
   },
   {
-    "revision": "db0996c536acc07ed6e5",
+    "revision": "6ec6627eaaa99b4890c9",
     "url": "/vkapps_notifier/static/css/2.080ac3f9.chunk.css"
   },
   {
-    "revision": "53615ff2a2dd984811aa8ec477dd7844",
+    "revision": "e3f76650974fc70dd09c980f791e78a3",
     "url": "/vkapps_notifier/index.html"
   }
 ];
